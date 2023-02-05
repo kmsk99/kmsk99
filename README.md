@@ -43,3 +43,5 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?&style=for-the-badge&logo=Insomnia&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmk99&count_private=true&show_icons=true&theme=transparent)
