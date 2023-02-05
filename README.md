@@ -1,6 +1,11 @@
-### Hi there 👋
+# Kim Minseok
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmsk99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmk99&count_private=true&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsk99)](https://solved.ac/kmsk99/)
+
+## Skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -44,6 +49,3 @@
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmk99&count_private=true&show_icons=true&theme=transparent)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsk99)](https://solved.ac/kmsk99/)
