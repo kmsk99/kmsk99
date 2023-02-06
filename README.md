@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
+![React/React Native](https://img.shields.io/badge/React/React%20Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
