@@ -11,9 +11,6 @@ I'm currently focusing on:
 
 ---
 
-### 🚨 Additional Skills (No Icons Available):
-- React Native
-
 ### 🌐 Connect with me:
 
 <a href="https://linkedin.com/in/kmsk99"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
