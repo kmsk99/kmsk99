@@ -69,21 +69,21 @@ I'm currently focusing on:
 - **SchoolMeets:** Alumni Networking Platform designed to connect graduates based on shared academic backgrounds and professional interests, integrating AI for user recommendations and content delivery.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,aws,figma" alt="SchoolMeets" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,aws" alt="SchoolMeets" />
   </a>
 </p>
 
 - **ILoveClub:** Club Management & Sponsorship Matching Platform that connects university clubs with sponsors through a structured management system.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,prisma,postgres,graphql,aws,docker,vercel,figma" alt="ILoveClub" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,prisma,postgres,graphql,aws,docker" alt="ILoveClub" />
   </a>
 </p>
 
 - **Damta:** Smoking Zone Finder Application that helps users locate nearby smoking zones based on user-generated data and Firebase integration.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,firebase,styledcomponents,figma" alt="Damta" />
+    <img src="https://skillicons.dev/icons?i=react,firebase,styledcomponents" alt="Damta" />
 
 **Additional Skills:** React Native
   </a>
