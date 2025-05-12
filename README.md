@@ -6,8 +6,8 @@
 
 I'm currently focusing on:
 - AI Reinforcement Learning & Recommendation Systems
-- Web3 & Blockchain Integration
 - Fullstack Development with modern frameworks
+- Web3 & Blockchain Integration
 
 ---
 
