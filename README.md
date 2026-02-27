@@ -98,12 +98,6 @@ Currently focusing on:
 
 ---
 
-### 📊 GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsk99&count_private=true&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsk99)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ✅ Solved.ac Profile:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsk99)](https://solved.ac/kmsk99/)
