@@ -1,103 +1,68 @@
-# 👋 Hi, I'm Kim Minseok
+# Hi, I'm Minseok Kim (Mason)
 
-### 💼 Startup CTO · Fullstack Engineer · 22,000+ Users Shipped
+### CTO at JHFit · Product Engineering Lead
 
-🎓 M.S. in Data Science & AI at Sogang University (Expected Aug 2026)
+I turn customer needs into business rules and working products across web, mobile, backend, and cloud operations. My work spans product development, technical decisions, and the verification needed to keep business-critical workflows reliable.
 
-I design, build, and operate web & mobile services end-to-end. As CTO at Portzone, I shipped 3 products serving 22,000+ cumulative users, architected AWS-based infrastructure and CI/CD pipelines, and led a 4-person product team.
+At **JHFit**, I lead development of **FitBridge**, a fitness-center operations SaaS. Previously, I led development at **Concheese** and a four-person product team at **Portzone**, building three services with **22,000+ cumulative registrations** as of March 2026.
 
-Currently focusing on:
-- Product Architecture — integrated design across frontend, backend, data, and infrastructure
-- AWS Cloud Operations — ECS/Fargate, EB, S3, CloudFront, KMS
-- DevOps & CI/CD — Docker + GitHub Actions-based deployment automation
-- Multi-Platform Development — Next.js web & React Native mobile
-- RAG-based Financial Data Retrieval Research (graduate thesis)
+[LinkedIn](https://www.linkedin.com/in/kmsk99/) · [Blog](https://kmsk99.github.io/) · [Email](mailto:kmsk96@naver.com)
 
----
+## Experience
 
-### 🛠️ Tech Stack & Skills:
+| Company | Role | Period |
+| --- | --- | --- |
+| **JHFit** | CTO · FitBridge | Apr 2026–present¹ |
+| **Concheese** | Development Team Lead · Sajanglink & internal automation | Mar–Jun 2026 |
+| **Portzone** | CTO · Web & mobile products | Jan 2023–Mar 2026² |
 
-**Backend:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,supabase,postgres,nodejs,graphql,prisma" alt="Backend" />
-  </a>
-</p>
+¹ Freelance work began in April; formal employment began in July 2026.
 
-**Frontend:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" alt="Frontend" />
-  </a>
+² Business activity began in January; business registration and formal employment began in May 2023.
 
-**Additional:** React Native · Expo
-</p>
+### FitBridge — fitness-center operations
 
-**Cloud & DevOps:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" alt="Cloud & DevOps" />
-  </a>
-</p>
+- Translate customer and planner feedback into an admin web application, member/coach Flutter apps, NestJS APIs, and shared data models.
+- Handle data migration, permissions, and consistency across reservations, payments, settlements, and training records.
+- Connect API contracts, cloud deployment, error tracking, and regression verification across platforms.
 
-**Data & AI:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" alt="Data & AI" />
-  </a>
+### Sajanglink — store-management data and automation
 
-**Additional:** RAG · LLM Pipeline · Crawling / Automation
-</p>
+- Integrated POS, delivery, and tax data into sales analytics, accounting and delivery profit-and-loss reports, and transaction-level views.
+- Reconciled outputs against store data to diagnose missing sources, synchronization gaps, and incorrect zero-value displays.
+- Automated recurring collection and review workflows, with worker operations, recovery, and handover documentation.
 
-**Tools:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,obsidian,notion" alt="Tools" />
-  </a>
-</p>
+### Portzone — three products from MVP to operation
 
----
+- **Puffzone:** global map MVP in two months; 3,000+ users; five-language support, real-time translation, and map clustering.
+- **Schoolmeets:** web MVP in three months and mobile app in two months; 13,000+ cumulative registrations; AWS KMS document encryption and OCR + LLM verification that reduced manual review by over 90%.
+- **I Love Club:** reservations, approvals, and KakaoTalk/email/push notifications; GitHub Actions + Docker deployment automation and migration from Elastic Beanstalk to ECS/Fargate.
 
-### 🚀 Projects:
+*Portzone user counts and review-reduction figures are from my March 2026 resume. Registration counts are cumulative, not monthly active users.*
 
-- **PuffZone** — Global Smoking/Non-Smoking Zone Map Service (2025.10 – 2026.02)
-  Shipped global MVP in 2 months, acquiring 3,000+ users. Implemented 5-language i18n with real-time translation, map clustering optimization, and location privacy audit logging compliant with Korean law.
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,supabase,aws,docker" alt="PuffZone" />
-  </a>
+## AI & ontology engineering
 
-**Additional:** React Native · Expo · S2 Geometry
-</p>
+I apply AI engineering to product workflows and verify the resulting behavior against business rules and execution evidence.
 
-- **SchoolMeet** — Verified Academic Credential Social Network (2025.03 – 2026.02)
-  Shipped web MVP in 3 months, mobile app in 2 months → 13,000+ cumulative users. Built AWS KMS file encryption for sensitive documents and OCR + LLM auto-verification pipeline reducing manual review by 90%+.
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,aws" alt="SchoolMeet" />
-  </a>
+- **Development harnesses:** connect implementation to regression checks; investigate refund, reward, and authentication failures with real PostgreSQL contention, fault injection, and model-based, property-based, and mutation testing.
+- **Business ontologies:** use Turtle/OWL, SHACL, and SPARQL to connect business rules with code, database representations, and test evidence; track source changes for AI-assisted development.
+- **Extraction evaluation:** evaluate InBody image extraction field by field, exclude persistently unreliable fields from automatic input, and provide review, correction, and manual-entry paths.
+- **Research workflows:** organize source-linked evidence, distinguish observations from inferences, and make findings reusable for engineering decisions.
 
-**Additional:** React Native · Expo · AWS KMS · CLOVA OCR · AWS Bedrock
-</p>
+## Research & education
 
-- **ILoveClub** — Club Administration Platform (2023.05 – 2026.02)
-  Integrated real-time reservation/approval with Kakao, email, and push notifications. Built GitHub Actions + Docker CI/CD for 7-min auto deploy/rollback on Elastic Beanstalk. Migrated backend from EB to ECS (Fargate) for container orchestration.
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,prisma,postgres,graphql,aws,docker" alt="ILoveClub" />
-  </a>
-</p>
+**Master of Engineering in Data Science & Artificial Intelligence**
 
----
+Sogang University, Graduate School of AI & SW · Awarded August 2026
 
-### 🌐 Connect with me:
+My thesis examined retrieval quality, iterative retrieval, and residual errors in RAG for financial numerical reasoning. The **Kimi-K2.5-based pipeline achieved 82.48% execution accuracy on the 1,147-question FinQA test set**. The work combined financial tables and text, reranking, Program-of-Thought, and evaluation of retrieval and reasoning failures.
 
-<a href="https://kmsk99.github.io"><img src="https://img.shields.io/badge/Blog-kmsk99.github.io-blue" alt="Blog" /></a>
-<a href="https://linkedin.com/in/kmsk99"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:kmsk96@naver.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+## Technologies
 
----
-
-### ✅ Solved.ac Profile:
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsk99)](https://solved.ac/kmsk99/)
+| Area | Technologies |
+| --- | --- |
+| Web & mobile | TypeScript, React, Next.js, TanStack Start, Flutter, React Native / Expo |
+| Backend & data | NestJS, Node.js, Prisma, PostgreSQL, GraphQL |
+| Cloud & delivery | AWS ECS/Fargate, S3, CloudFront, KMS, Docker, Terraform, GitHub Actions |
+| AI & knowledge | Python, RAG, LLM evaluation, Turtle/OWL, SHACL, SPARQL |
+| Verification & automation | Playwright, property-based / model-based / mutation testing, data reconciliation |
