@@ -4,7 +4,7 @@
 
 I build and operate products across web, mobile, backend, and cloud, turning customer needs into working software and reliable business workflows.
 
-[LinkedIn](https://www.linkedin.com/in/kmsk99/) · [Blog](https://kmsk99.github.io/) · [Email](mailto:kmsk96@naver.com)
+[LinkedIn](https://www.linkedin.com/in/kmsk99/) · [Blog](https://kmsk99.github.io/) · [Email](mailto:mason@masonkim.kr)
 
 ## Work
 
